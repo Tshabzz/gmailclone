@@ -1,2 +1,2 @@
 ### gmailclone
-#A full UI Clone Of Gmail Desktop View
+A full UI Clone Of Gmail Desktop View
